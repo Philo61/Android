@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyTime2Exit</string>
+    <string name="action_about">About</string>
+    <string name="action_exit">Esci</string>
+    <string name="ora_di_uscita">Ora di Uscita :</string>
+    <string name="full_time_mode">Full-Time mode</string>
+    <string name="full_time">Full-Time</string>
+    <string name="full_time_7h_38min">Full-Time (7h 38min)</string>
+    <string name="ora_in">08:00</string>
+    <string name="part_time_mode">Part-Time mode</string>
+    <string name="part_time">Part-Time</string>
+    <string name="init_mensa">12:30</string>
+    <string name="part_time_5h">Part-Time (5h 43min)</string>
+    <string name="minuti">minuti</string>
+    <string name="fine_pausa">13:30</string>
+    <string name="intervallo">Intervallo :</string>
+    <string name="fine_pausa_m">Fine pausa mensa :</string>
+    <string name="inizio_pausa">Inizio pausa mensa :</string>
+    <string name="ora_ingresso">Ora di ingresso :</string>
+    <string name="ora_exit">16:38</string>
+    <string name="break_time">60</string>
+</resources>
